@@ -1,6 +1,3 @@
-gruntxx
-=======
+for project initial : ```npm install```
 
-Grunt 新手一日学会 配套实验项目
-
-详情请看文章：
+for project contingence development : ```grunt watchit```
